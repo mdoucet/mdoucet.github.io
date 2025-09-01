@@ -1,3 +1,5 @@
+title: "Mat Doucet, PhD"
+description: "I find elegant solutions to hard problems."
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
